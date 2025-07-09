@@ -671,5 +671,15 @@
     "date": "2025-07-08",
     "avatar": "/avatars/mankwongchi.jpg",
     "linkedin": "mankwongchi"
+  },
+  {
+    "name": "Ashutosh Upadhyay",
+    "github": "aupadh12",
+    "certs": ["awstronaut"],
+    "city": "Antwerp",
+    "country": "Belgium",
+    "date": "2025-07-09",
+    "avatar": "/avatars/Ashutosh_Upadhyay.jpeg",
+    "linkedin": "ashutosh2206"
   }
 ]
