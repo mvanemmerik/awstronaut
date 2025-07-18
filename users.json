@@ -727,5 +727,16 @@
     "linkedin": "serhii-kaidalov",
     "website": "https://kaidalov.com",
     "avatar": "/avatars/SerhiiKaidalov.jpg"
+  },
+  {
+    "name": "Alceu Conerado Neto",
+    "github": "alceuconerado",
+    "certs": ["awstronaut"],
+    "city": "Curitiba",
+    "country": "Brazil",
+    "date": "2025-07-14",
+    "bio": "COO (Chief Operating Officer) | AWS Solutions Architect na DATI | 12x AWS Certified | AWS User Group Leader | AWS Architect",
+    "linkedin": "alceu-conerado-neto-0b4b6334",
+    "avatar": "/avatars/alceuconerado.jpg"
   }
 ]
