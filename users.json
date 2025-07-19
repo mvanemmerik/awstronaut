@@ -738,5 +738,15 @@
     "bio": "COO (Chief Operating Officer) | AWS Solutions Architect na DATI | 12x AWS Certified | AWS User Group Leader | AWS Architect",
     "linkedin": "alceu-conerado-neto-0b4b6334",
     "avatar": "/avatars/alceuconerado.jpg"
+  },
+  {
+    "name": "Ashutosh Upadhyay",
+    "github": "aupadh12",
+    "certs": ["awstronaut"],
+    "city": "Antwerp",
+    "country": "Belgium",
+    "date": "2025-07-09",
+    "avatar": "/avatars/Ashutosh_Upadhyay.jpeg",
+    "linkedin": "ashutosh2206"
   }
 ]
