@@ -775,5 +775,16 @@
     "bio": "Software Engineer Lead at Capgemini",
     "linkedin": "jesus-alcoba-castillo",
     "avatar": "/avatars/JesusAlcoba.png"
+  },
+  {
+    "name": "Montgomery vanEmmerik",
+    "github": "mvanemmerik",
+    "certs": ["awstronaut"],
+    "city": "Zionsville",
+    "country": "US",
+    "date": "2025-08-30",
+    "bio": "Director of Site Reliability Engineering",
+    "linkedin": "mvanemmerik",
+    "avatar": "/avatars/mvanemmerik.jpg"
   }
 ]
